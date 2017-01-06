@@ -15,6 +15,9 @@
   ],
   "author": "Flow Commerce",
   "license": "MIT",
+  "engines": {
+    "node": ">= 6.9.0"
+  },
   "devDependencies": {
     "chai": "3.5.0",
     "chance": "1.0.4",
