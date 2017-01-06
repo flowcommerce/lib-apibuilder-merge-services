@@ -1,6 +1,6 @@
 {
   "name": "@flowio/lib-apidoc-merge-services",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A node utility for merging apidoc service objects",
   "main": "index.js",
   "scripts": {
