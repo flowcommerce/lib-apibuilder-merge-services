@@ -32,3 +32,7 @@ An error is thrown whenever merged attributes conflict with each other. For exam
 Invariant Error: CONFLICT found in API version 0.0.3
 The following models are duplicated: user, account.
 ```
+
+## License
+
+MIT
