@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "chai": "3.5.0",
-    "chance": "1.0.4",
+    "chance": "1.0.10",
     "chokidar-cli": "1.2.0",
     "eslint": "3.13.1",
     "eslint-config-airbnb-base": "11.0.1",
