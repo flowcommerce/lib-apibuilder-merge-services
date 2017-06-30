@@ -19,7 +19,7 @@
     "node": ">= 6.9.0"
   },
   "devDependencies": {
-    "chai": "3.5.0",
+    "chai": "4.0.2",
     "chance": "1.0.10",
     "chokidar-cli": "1.2.0",
     "eslint": "3.19.0",
